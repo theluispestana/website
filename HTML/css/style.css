@@ -19,12 +19,13 @@ We will really help You.
 -------------------------------------
 ## GLOBAL STYLES
 ## PRELOADER
-## HEADER
+## ORIGINAL HEADER
 ## ABOUT US
 ## FEATURES
 ## SPECIFICATIONS
 ## DOWNLOAD APP
 ## FOOTER
+## HEADER REPLACEMENT (FROM 31-GYM)
 
 -------------------------------------
 
@@ -1040,7 +1041,7 @@ FOOTER
 .gm_header_wrapper{
     float:left;
     width:100%;
-    background-image:url(../images/banner.jpg);
+    background-image:url(../images/banner.jpeg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
