@@ -26,6 +26,7 @@ We will really help You.
 ## DOWNLOAD APP
 ## FOOTER
 ## HEADER REPLACEMENT (FROM 31-GYM)
+## FAQ CSS (FROM 31-GYM)
 
 -------------------------------------
 
@@ -135,7 +136,7 @@ a:focus {
 .btn-primary:visited,
 .btn-primary:active,
 .btn-primary:focus {
-    background: #009688;
+    background: #3fe8d4;
     color: #ffffff;
     outline: none;
 }
@@ -157,7 +158,7 @@ a:focus {
 }
 
 .sec-heading {
-    color: #2376bc;
+    color: #3fe8d4;
     position: relative;
     padding-bottom: 12px;
     margin-bottom: 40px;
@@ -807,7 +808,7 @@ Featuress
     margin-right: 10px;
     text-align: center;
     font-size: 28px;
-    color: #2376bc;
+    color: #3fe8d4;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -870,7 +871,7 @@ Specifications
 
 .specification h3 {
     margin-bottom: 17px;
-    color: #2376bc;
+    color: #3fe8d4;
     font-weight: 600;
 }
 
@@ -1253,3 +1254,37 @@ FOOTER
     margin:0px;
 }
 /*---------- Header/Menu css end -------*/
+/*---------- FAQ css start -------*/
+.gm_padderboth120{
+    padding:120px 0px;
+}
+.gm_bottompadder60{
+    padding-bottom:60px;
+}
+.gm_toppadder30{
+    padding-top:30px;
+}
+.gm_faq_wrapper{
+    /* float:left; */
+    width:100%;
+}
+.gm_faq_box{
+    /* float:left; */
+    width:100%;
+}
+.gm_heading_color{
+    color: #3fe8d4;
+}
+.gm_faq_box h4{
+    /* float:left; */
+    width:100%;
+    font-size:18px;
+    margin:0px 0px 20px 0px;
+}
+.gm_faq_box p{
+    /* float:left; */
+    width:100%;
+    font-size:14px;
+    margin-bottom:40px;
+}
+/*---------- FAQ css end -------*/
