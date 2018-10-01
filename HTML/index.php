@@ -216,7 +216,7 @@
                         </div>
                         <div class="media-body">
                             <h3>College Funding</h3>
-                            <p>At solmen va esser necessi far uniform grammaca, pronunciation e plu sommun paroles quande lingues.</p>
+                            <p>Student loan debt is crippling. We can help you and your children avoid that headache.</p>
                         </div>
                     </div>
                     <div class="specification wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="1000ms">
