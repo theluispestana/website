@@ -1,3 +1,6 @@
+<?php
+ session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -69,20 +72,20 @@
                     <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
                         <div class="gm_bnr_form">
                             <h4>get started today</h4>
-                            <form>
-                                <input type="text" placeholder="Your Name">
-                                <input type="text" placeholder="Email">
-                                <input type="text" placeholder="Phone no">
-                                <input type="text" placeholder="Address">
+                            <form action="includes/saveInfo.inc.php" method="post">
+                                <input type="text" name="name" placeholder="Your Name">
+                                <input type="text" name="email" placeholder="Email">
+                                <input type="text" name="phone" placeholder="Phone no">
+                                <input type="text" name="address" placeholder="Address">
                                 <!-- <input type="text" placeholder="City"> -->
-                                <input type="text" placeholder="Zipcode">
+                                <input type="text" name="zipcode" placeholder="Zipcode">
                                 <!-- <select>
                                     <option value="1">Select Type</option>
                                     <option value="2">Type 1</option>
                                     <option value="3">Type 2</option>
                                     <option value="4">Type 3</option>
                                 </select> -->
-                                <button type="submit" class="gm_btn">LET'S GET IN TOUCH</button>
+                                <button type="submit" name="submit" class="gm_btn">LET'S GET IN TOUCH</button>
                             </form>
                         </div>
                     </div>
