@@ -71,7 +71,7 @@
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
                         <div class="gm_bnr_form">
-                            <h4>get started today</h4>
+                            <h4>Get started today</h4>
                             <form action="includes/saveInfo.inc.php" method="post">
                                 <input type="text" name="name" placeholder="Your Name">
                                 <input type="text" name="email" placeholder="Email">
