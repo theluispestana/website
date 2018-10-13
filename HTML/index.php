@@ -37,7 +37,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4">
                     <div class="gm_logo">
-                        <img src="images/logo.png" alt="Logo" title="Logo">
+                        <!-- <img src="images/logo.png" alt="Logo" title="Logo"> -->
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-8 col-lg-push-6 col-md-push-5 col-sm-push-5 col-xs-push-0">
@@ -64,7 +64,7 @@
                 <div class="gm_bnr_infowrapper gm_toppadder80">
                     <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12">
                         <div class="gm_bnr_text">
-                            <h1>Take care of what matters most</h1>
+                            <h1>Life Insurance Made Easy</h1>
                             <p>We’ve helped thousands of people just like you, now it's your turn.</p>
                             <!-- <a href="javascript:;">Check Our tour Pacakges</a> -->
                         </div>
@@ -227,8 +227,8 @@
                             <div class="icn wow scaleIn" data-wow-duration="500ms" data-wow-delay="1000ms"><i class="fa fa-briefcase" aria-hidden="true"></i></div>
                         </div>
                         <div class="media-body">
-                            <h3>Business Planning</h3>
-                            <p>At solmen va esser necessi far uniform grammaca, pronunciation e plu sommun paroles quande lingues.</p>
+                            <h3></h3>
+                            <p>.</p>
                         </div>
                     </div>
                 </div>
@@ -262,7 +262,7 @@
                             <div class="icn wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms"><i class="icon icon-bulb"></i></div>
                         </div>
                         <div class="media-body">
-                            <h3>FINRA Registered</h3>
+                            <h3>Devoted to Service</h3>
                             <p>Board Certified Financial Planners who understand your needs.</p>
                         </div>
                     </div>
@@ -287,24 +287,24 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-lg-offset-3 col-md-offset-3">
                     <div class="gm_heading gm_bottompadder60 gm_heading_color">
-                        <h2>Frequently Ask Questions</h2>
-                        <p>At Upstart, we pride ourselves on offering exceptional customer experiences for every client that walks through our doors.</p>
+                        <h2>Frequently Asked Questions</h2>
+                        <p>At Apollo Life Insurance Brokerage, we pride ourselves on offering an exceptional customer experience for every client that walks through our doors.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="gm_faq_box">
-                        <h4>01. How do book for a ride with your taxi ?</h4>
-                        <p>Perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae. ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem</p>
-                        <h4>03.What are the different modes of payment you support ?</h4>
-                        <p>Perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem</p>
+                        <h4>01. What insurance carriers do you offer?</h4>
+                        <p>Here at Apollo Life Insurance Brokerage, we are are not chained to any single company and so we are free to help you make sure you're getting the best possible deal.</p>
+                        <h4>03. What will you do with my information?</h4>
+                        <p>After receiving your information one of our trained professionals will reach out to you via your preferred method of communication. We understand that your privacy is key and so we do not share personal information with any third parties under any circumstance.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="gm_faq_box">
-                        <h4>02.How to Know About offers  ? </h4>
-                        <p>Perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                        <h4>04.What if thee car does not show up?</h4>
-                        <p>Omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae illo inventore.</p>
+                        <h4>02. How much will this cost me? </h4>
+                        <p>Our term coverage starts as low at $14/month for $200,000 of coverage. We understand that many of the most important things in life are free and in keeping with that sentiment we do everything we can to make sure that our clients can accomplish their goals without having to break the bank.</p>
+                        <!-- <h4>04.What if thee car does not show up?</h4>
+                        <p>Omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae illo inventore.</p> -->
                     </div>
                 </div>
                 <!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-lg-offset-3 col-md-offset-3">
